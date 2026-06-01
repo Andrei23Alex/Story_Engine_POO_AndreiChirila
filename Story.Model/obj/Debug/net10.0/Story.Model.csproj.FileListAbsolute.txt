@@ -1,0 +1,11 @@
+D:\POO\Story.Model\bin\Debug\net10.0\Story.Model.deps.json
+D:\POO\Story.Model\bin\Debug\net10.0\Story.Model.dll
+D:\POO\Story.Model\bin\Debug\net10.0\Story.Model.pdb
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.AssemblyInfoInputs.cache
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.AssemblyInfo.cs
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.csproj.CoreCompileInputs.cache
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.dll
+D:\POO\Story.Model\obj\Debug\net10.0\refint\Story.Model.dll
+D:\POO\Story.Model\obj\Debug\net10.0\Story.Model.pdb
+D:\POO\Story.Model\obj\Debug\net10.0\ref\Story.Model.dll

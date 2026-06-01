@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zlmQ5cFIW8=",
+  "success": true,
+  "projectFilePath": "D:\\POO\\Story.Persistence\\Story.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRL\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.2\\microsoft.win32.systemevents.9.0.2.nupkg.sha512",
+    "C:\\Users\\CRL\\.nuget\\packages\\system.drawing.common\\9.0.2\\system.drawing.common.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

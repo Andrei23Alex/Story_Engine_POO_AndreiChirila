@@ -1,0 +1,17 @@
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Persistence.deps.json
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Persistence.dll
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Persistence.pdb
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Engine.dll
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Model.dll
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Engine.pdb
+D:\POO\Story.Persistence\bin\Debug\net10.0\Story.Model.pdb
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.csproj.AssemblyReference.cache
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.AssemblyInfoInputs.cache
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.AssemblyInfo.cs
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.csproj.CoreCompileInputs.cache
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Pe.8D524D88.Up2Date
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.dll
+D:\POO\Story.Persistence\obj\Debug\net10.0\refint\Story.Persistence.dll
+D:\POO\Story.Persistence\obj\Debug\net10.0\Story.Persistence.pdb
+D:\POO\Story.Persistence\obj\Debug\net10.0\ref\Story.Persistence.dll

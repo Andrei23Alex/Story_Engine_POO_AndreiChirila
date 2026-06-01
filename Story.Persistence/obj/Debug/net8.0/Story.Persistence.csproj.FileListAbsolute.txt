@@ -1,0 +1,4 @@
+D:\POO\Story.Persistence\obj\Debug\net8.0\Story.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO\Story.Persistence\obj\Debug\net8.0\Story.Persistence.AssemblyInfoInputs.cache
+D:\POO\Story.Persistence\obj\Debug\net8.0\Story.Persistence.AssemblyInfo.cs
+D:\POO\Story.Persistence\obj\Debug\net8.0\Story.Persistence.csproj.CoreCompileInputs.cache
